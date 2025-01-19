@@ -17,32 +17,22 @@ Within this project, I checked the security level of a personal e-mail account t
 <p>
 <b>1. Confidentiality analysis:</b>
 
-- Assesing the email account password complexity and uniqueness using [Password Strength Meter](https://www.passwordmonster.com/)
-- ![image](https://github.com/user-attachments/assets/43e488c8-9b41-49a9-84c2-927fb2cead3b)
+- Assesing the email account password complexity and uniqueness using [Password Strength Meter](https://www.passwordmonster.com/).<br/>
 
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+  Here I introduced the account password in the empty box and generated the following asnwer:<br/>
+  
+![image](https://github.com/user-attachments/assets/43e488c8-9b41-49a9-84c2-927fb2cead3b)
+
+- Verifying if two-factor authentication (2FA) is enabled to enhance the security of account access. <br/>
+
+  While I checked if the 2FA authentication is enabled I found that is not.<br/>
+
+![image](https://github.com/user-attachments/assets/b6fbe428-feac-44f3-85af-4cdbaa4e6d6b)
+  
+<b>2. Integrity analysis:</b>
+
+- 
+
+- 
+
+
