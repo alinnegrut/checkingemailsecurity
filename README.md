@@ -62,7 +62,7 @@ Yahoo Mail using several mechanisms and technologies to safeguard users from vir
 ![image](https://github.com/user-attachments/assets/f499b079-3206-4a7b-bbc8-0c3dd19d48d3)
 ![image](https://github.com/user-attachments/assets/9aa96b96-eccd-4a43-9e7c-842e5faa590d)
 
-- **Evaluating how your email service identifies and blocks spam and phishing messages.**<br/>
+- **Evaluating how the email service identifies and blocks spam and phishing messages.**<br/>
 
 ![image](https://github.com/user-attachments/assets/3f95265e-a737-44f5-910a-777f9f92e3c8)
 ![image](https://github.com/user-attachments/assets/536909a7-5f40-40f9-8723-9b537468dca8)
@@ -72,7 +72,7 @@ Yahoo Mail using several mechanisms and technologies to safeguard users from vir
 
 <b><h3>3. Availability analysis:</h3></b>
 
-- Verifying how the email service ensures the accessibility of your account and messages.
+- Verifying how the email service ensures the accessibility of the account and messages.
 
 While using this email, direct login on the yahoo.com website is one of the access methods.
 Other methods for accessing the account and messages include:
