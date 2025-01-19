@@ -1,4 +1,4 @@
-<h1>Checking an e-mail account security</h1>
+<h1>Checking the security of an e-mail account</h1>
 
 <h2>Description</h2>
 Within this project, I checked the security level of a personal e-mail account that I'm not using it for daily basis, where I approached the three principles of the CIA triad (Confidentiality, Integrity, Availability).<br />
