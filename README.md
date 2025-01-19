@@ -88,8 +88,8 @@ In case of loss of access to emails, it is possible to export emails by regularl
 
 <b><h3>3. Conclusions:</h3></b>
 
-Confidentiality can be improved by using a stronger password and implementing 2FA.
-The integrity of messages is well protected by built-in scanning and filtering mechanisms, but additional measures, such as avoiding downloading suspicious attachments, are necessary.
-The availability of data and messages can be ensured through regular backups and constant updates of recovery information, so users can access their account in case of emergency.
+- Confidentiality can be improved by using a stronger password and implementing 2FA.</br>
+- The integrity of messages is well protected by built-in scanning and filtering mechanisms, but additional measures, such as avoiding downloading suspicious attachments, are necessary.</br>
+- The availability of data and messages can be ensured through regular backups and constant updates of recovery information, so users can access their account in case of emergency.</br>
 
 **Identified weaknesses, such as a weak password, lack of two-step authentication, and manual backup, require improvements to protect the email account against cybersecurity risks.**
