@@ -1,9 +1,7 @@
 <h1>Checking an e-mail security</h1>
 
 <h2>Description</h2>
-Within this project, I checked the security level of a personal e-mail account that I'm not using it for daily basis, where I approached the three principles of the CIA triad (Confidentiality, Integrity, Availability).
-<br />
-
+Within this project, I checked the security level of a personal e-mail account that I'm not using it for daily basis, where I approached the three principles of the CIA triad (Confidentiality, Integrity, Availability).<br />
 
 <h2>Languages and Utilities Used</h2>
 
@@ -16,8 +14,9 @@ Within this project, I checked the security level of a personal e-mail account t
 
 <h2>Project walk-through:</h2>
 
-<p align="center">
-Confidentiality analysis: <br/>
+<p align="left">
+<b>1. Confidentiality analysis:</b> <br/>
+  
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
