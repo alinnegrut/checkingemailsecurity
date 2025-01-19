@@ -14,9 +14,12 @@ Within this project, I checked the security level of a personal e-mail account t
 
 <h2>Project walk-through:</h2>
 
-<p align="left">
-<b>1. Confidentiality analysis:</b> <br/>
-  
+<p>
+<b>1. Confidentiality analysis:</b>
+
+- Assesing the email account password complexity and uniqueness using [Password Strength Meter](https://www.passwordmonster.com/)
+- ![image](https://github.com/user-attachments/assets/43e488c8-9b41-49a9-84c2-927fb2cead3b)
+
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
